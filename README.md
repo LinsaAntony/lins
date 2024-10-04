@@ -6,5 +6,5 @@
 - exploring artificial intelligence and machine learning
 
 🛠 Skills:
-Languages - Python, C, C++, Java, HTML 
-Tools - VSCode
+- Languages : Python, C, C++, Java, HTML 
+- Tools : VSCode
